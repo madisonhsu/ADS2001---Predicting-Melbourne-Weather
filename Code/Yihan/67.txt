@@ -1,1 +1,13 @@
-
+The BOM's prediction of Melbourne's weather mainly relies on the combination of the observation network and the numerical weather forecast model. BOM will use ground/automatic weather stations to observe temperature, humidity, wind, air pressure and rainfall, and combine weather radar, satellite cloud images and high-altitude sounding data. Then, this information will be input into numerical forecasting systems such as ACCESS to simulate future atmospheric evolution and support operational forecasting.
+The rainfall in Melbourne is influenced by both local weather conditions and borad climate scale factors.
+synoptic scale: cold fronts, troughs and low-pressure systems moving across southeastern Australia
+borader climate scale: ENSO, the Indian Ocean Dipole (IOD), the Southern Annular Mode (SAM)
+rainy days occur on roughly 40% of days on average, equivalent to about 150 rainy days per year over the 2011–2021 period
+winter has the highest rain frequency, followed by spring and autumn, while summer is the driest season.
+There is a significant interannual fluctuation in the number of rainy days and annual rainfall in Melbourne, and there is no particularly simple upward and downward trend from year to year.
+cool-season rainfall has generally declined over recent decades, especially in southern Australia, partly linked to changes in large-scale circulation such as the strengthening of the subtropical ridge, while natural variability from ENSO, IOD and SAM continues to play an important role.
+https://www.csiro.au/en/research/environmental-impacts/climate-change/State-of-the-Climate/Previous/State-of-the-Climate-2022
+https://www.researchgate.net/publication/260437522_Operational_Implementation_of_the_ACCESS_Numerical_Weather_prediction_Systems
+https://wmo.int/guide-instruments-and-methods-of-observation-wmo-no-8-0
+https://www.researchgate.net/publication/249621986_On_the_Remote_Drivers_of_Rainfall_Variability_in_Australia
+https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.577
